@@ -1,0 +1,16 @@
+package enums.TestCaseFields;
+
+public enum TestCaseType {
+    ACCEPTANCE,
+    ACCESSIBILITY,
+    AUTOMATED,
+    COMPATIBILITY,
+    DESTRUCTIVE,
+    FUNCTIONAL,
+    OTHER,
+    PERFORMANCE,
+    REGRESSION,
+    SECURITY,
+    SMOKE_AND_SANITY,
+    USABILITY
+}
